@@ -5,4 +5,4 @@ We are looking for the shortest part from a point A to a point B given their lat
 As library, we will use networkx for drawing the graph and matplolib for displaying it
 
 # PROGRAMMING LANGUAGE
-pYTHON
+Python
